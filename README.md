@@ -13,13 +13,13 @@ Features
 - Footer with social icons
 
 Technologies
-- HTML5
-- CSS3 (Flexbox & Grid)
+- HTML
+- CSS (Flexbox & Grid)
 - JavaScript (dark mode toggle, hamburger menu)
 
 Installation
-1. Clone the repository:
-2. 2. Open the folder in VS Code.
+1. Clone the repository
+2. Open the folder in VS Code.
 3. Run with Live Server or open `index.html` directly in a browser.
      
 License
