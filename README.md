@@ -16,6 +16,12 @@ Technologies
 - HTML
 - CSS (Flexbox & Grid)
 - JavaScript (dark mode toggle, hamburger menu)
+  
+Live Preview (Localhost)
+Run with VS Code Live Server:
+1. Install Live Server extension in VS Code.
+2. Right-click `index.html` → "Open with Live Server".
+3. To test on phone, use your PC’s IP address (e.g., `http://192.168.0.199:5500/index.html`) while connected to the same Wi-Fi.
 
 Installation
 1. Clone the repository
@@ -24,3 +30,4 @@ Installation
      
 License
 This project is open-source and free to use.
+
